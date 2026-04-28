@@ -4,7 +4,7 @@ matplotlib
 numpy
 pandas
 ipywidgets
-sklearn
+scikit-learn
 openpyxl
 ipyleaflet
 widgetsnbextension
